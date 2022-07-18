@@ -1,5 +1,5 @@
 # PHILOSOPHERS [MAC version]
-This project runs a simulation of the classic philosopher's problem using multithreading.
+This project runs a simulation of the classic philosophers problem using multithreading.
 
 Notes:
 - All data that is shared/accessed in any way between threads/the main must be protected by a mutex. 
